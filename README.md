@@ -1,72 +1,16 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+<img align="center" src="https://user-images.githubusercontent.com/62628408/152209979-0890fce1-2450-4e4a-b65c-7cd7fc4c3daf.png">
 
-> https://varadbhogayata.github.io
-
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/107d7648-dd15-45d9-9637-2d13681b5f2c/deploy-status)](https://app.netlify.com/sites/victoreke/deploys)
 </p>
 
-:star: Star me on GitHub — it helps!
+### Color code
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
-
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
-
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
-
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
-
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
-
-## Contributing 💡
-#### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+| Color                | Hex                                                                                                                         |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Primary color        | ![#7360ff](https://user-images.githubusercontent.com/62628408/127180948-3d81c308-f726-467e-92ab-eba9d9158c83.png) `#7360ff` |
+| Secondary color      | ![#989aef](https://user-images.githubusercontent.com/62628408/127180950-32de79ba-19af-4bb6-9078-6b65e7a57371.png) `#989aef` |
+| Text-primary color   | ![#ffffff](https://user-images.githubusercontent.com/62628408/127180954-d9745dbd-e370-49cf-a4ea-14d548c34fd1.png) `#ffffff` |
+| Text-secondary color | ![#64707d](https://user-images.githubusercontent.com/62628408/127180936-970c7329-1d46-4114-85df-d3ef9760baef.png) `#64707d` |
+| Bg-primary color     | ![#000000](https://user-images.githubusercontent.com/62628408/127180942-c25f77c5-4bd2-4f7c-b95e-4bd7240be000.png) `#000000` |
+| Bg-secondary color   | ![#111111](https://user-images.githubusercontent.com/62628408/127180944-8f4b1ad5-e78c-4b24-a4c3-018b94814298.png) `#111111` |
+| Other color          | ![#232323](https://user-images.githubusercontent.com/62628408/127180947-80b3b7e6-2d9f-4690-8885-754d46e4d5cf.png) `#232323` |
